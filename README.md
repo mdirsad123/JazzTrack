@@ -17,6 +17,19 @@ Ensured a user-friendly interface for seamless navigation and enhanced user expe
 Tech Stack: Flask API, MySQL, React, Tailwind CSS, Python
 
 ## Some Screen For Understanding
+![1](https://github.com/user-attachments/assets/b3bd0191-385d-451a-87c5-6bb8d4bc42fe)
+![2](https://github.com/user-attachments/assets/5c1007c9-8052-4355-8d1f-573ef6b709a0)
+![3](https://github.com/user-attachments/assets/53d7f9e6-6561-4602-8a84-84c4d1070ae6)
+![4](https://github.com/user-attachments/assets/b4fda080-0164-4ff5-b55a-ae609ffee387)
+![5](https://github.com/user-attachments/assets/5a205220-da2a-4a0d-9c44-bf59aa6e5adf)
+![6](https://github.com/user-attachments/assets/8802686c-8a6b-4216-a095-f7e7a8b9852a)
+![7](https://github.com/user-attachments/assets/1bd23015-8981-4675-b6a8-070765205209)
+![8](https://github.com/user-attachments/assets/f9c2df4b-7235-459c-933f-53ef5acbeec6)
+
+
+
+
+
 
 ### 🎉 [NEW] JazzTrack UI Components
 All the main components from both versions, this will help you to see and interact with all & the latest added components of Horizon (also, new components are on the way, stay tuned)! ⚡️
