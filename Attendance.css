@@ -1,0 +1,70 @@
+.weekOffCSS {
+    background-color: lightgreen;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.holidayCSS {
+    background-color: green;
+    border-radius: 10px;
+    margin: 10px;
+    color: white;
+}
+.halfHolidayCSS {
+    background-color: violet;
+    border-radius: 10px;
+    margin: 10px;
+    color: black;
+}
+
+.presentCSS {
+    background-color: lightblue;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.leaveCSS {
+    background-color: yellow;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.leaveWOPayCSS {
+    background-color: orange;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.absentCSS {
+    background-color: red;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.calendarCSS {
+    width: 100%;
+}
+.birthdayCSS {
+    background-color: red;
+    border-radius: 10px;
+    margin: 10px;
+    color: white;
+}
+.anniversaryCSS {
+    background-color: red;
+    border-radius: 10px;
+    margin: 10px;
+    color: white;
+}
+.halfHolidayPresentCSS {
+    background-color: violet;
+    border-radius: 10px;
+    margin: 10px;
+    color: black;
+}
+.halfHolidayAbsentCSS {
+    background-color: brown;
+    border-radius: 10px;
+    margin: 10px;
+    color: white;
+}
